@@ -75,5 +75,16 @@ print(stack.get())
 
 print("\nEmpty: ", stack.empty())
 
+Output: 
 
+0
+Full:  True
+Size:  3
+
+Elements poped from the stack
+c
+b
+a
+
+Empty:  True
 
