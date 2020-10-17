@@ -159,6 +159,18 @@ for _ in range(1, 6):
 	print(f"Pop: {remove}")
 print(f"Stack: {stack}")
 
+Output: 
+
+Stack: 10 -> 9 -> 8 -> 7 -> 6 -> 5 -> 4 -> 3 -> 2 -> 1
+
+Pop: 10
+Pop: 9
+Pop: 8
+Pop: 7
+Pop: 6
+
+Stack: 5 -> 4 -> 3 -> 2 -> 1
+
 
 
 
