@@ -28,3 +28,19 @@ print(stack)
 # uncommenting print(stack.pop()) 
 # will cause an IndexError 
 # as the stack is now empty
+
+Output: 
+
+Initial stack:
+deque(['a', 'b', 'c'])
+
+Elements poped from stack:
+c
+b
+a
+
+Stack after elements are poped:
+deque([])
+
+
+
